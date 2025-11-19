@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terapias-naturales-silvia.github.io/sitemap-index.xml
